@@ -21,7 +21,7 @@ This is a Python-based MCP (Model Context Protocol) server that interacts with t
 
 ```bash
 git clone <repository-url>
-cd mcp-server-hyd
+cd matillion-mcp-poc
 ```
 
 ### 2. Install Dependencies
